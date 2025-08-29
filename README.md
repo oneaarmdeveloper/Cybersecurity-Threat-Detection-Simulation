@@ -120,5 +120,4 @@ MIT License – free to use and modify.
 
 Developed by **Chukwuebuka Anselm Icheku**
 https://github.com/oneaarmdeveloper
-Do you want me to make that diagram for you?
-```
+
